@@ -204,5 +204,6 @@ export const Hero = () => {
                </HeroContainer>
           </div>
      );
+     
 };
 export default Hero;
