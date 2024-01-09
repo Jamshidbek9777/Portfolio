@@ -12,7 +12,7 @@ export const Contact = () => {
     <Container id="contact">
       <Title>Contact</Title>
       <SubTitle>You can contact me through the adressess below</SubTitle>
-      <PhoneNumber> Phone number: +99893205977</PhoneNumber>
+      <PhoneNumber> Phone number: +998932059777</PhoneNumber>
       <Telegram href="https://t.me/Jamshidbek_Rasulov">
         {" "}
         Telegram: @Jamshidbek_Rasulov

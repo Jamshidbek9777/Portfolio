@@ -19,13 +19,15 @@ export let data = [
     id: 3,
     src: JS,
     title: "JAVASCRPT",
-    description: "In Javascript, I can create the websites' base and I can do it dynamic",
+    description:
+      "In Javascript, I can create the websites' base and I can do it dynamic",
   },
   {
     id: 4,
     src: REACT,
     title: "REACT",
-    description: "Using React framework, I can create the most useful, modern and comfortable websites",
+    description:
+      "Using React framework, I can create the most useful, modern and comfortable websites",
   },
 ];
 export default data;
